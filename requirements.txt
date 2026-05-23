@@ -1,0 +1,17 @@
+# Core dependencies
+
+numpy
+pandas
+scikit-learn
+
+# Deep Learning
+torch
+
+# Streamlit for UI
+streamlit
+
+# Model serialization
+joblib
+
+
+imbalanced-learn
