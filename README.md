@@ -18,3 +18,4 @@ Features:
 - Detailed dataset information and feature descriptions
 - Responsive design with custom styling
 
+Dataset source: https://archive.ics.uci.edu/dataset/42/glass+identification
